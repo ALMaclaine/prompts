@@ -23,10 +23,11 @@ Maintain an organized and efficient workflow when collaborating on code.
      ```
      git add [file-name]
      ```
-   - Commit changes using the [Commit Message Generation Prompt](#3-commit-message-generation-prompt):
+   - Commit changes:
      ```
      git commit -m "Your commit message"
      ```
+   - For guidance on writing clear and informative commit messages, refer to the [Commit Message Generation Prompt](#3-commit-message-generation-prompt).
 
 4. **Sync with Remote Repository** (if collaborating):
    - Pull the latest changes:
@@ -70,3 +71,6 @@ Maintain an organized and efficient workflow when collaborating on code.
 - Keep your `master` branch clean and stable.
 - Commit often with clear messages.
 - Pull changes regularly to minimize conflicts.
+
+## Related Prompts
+- [Commit Message Generation Prompt](#3-commit-message-generation-prompt): Use this prompt for guidance on writing clear and informative commit messages.

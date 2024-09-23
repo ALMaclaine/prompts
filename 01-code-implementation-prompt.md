@@ -25,7 +25,7 @@ Guide the process of coding new functionalities or updating existing ones, ensur
    - Follow coding standards and best practices.
    - Use clear and descriptive names.
    - Include comments for complex logic.
-   - Ensure error handling and consider edge cases.
+   - Ensure error handling and consider edge cases. (For detailed guidance, refer to the [Error Handling and Troubleshooting Prompt](#6-error-handling-and-troubleshooting-prompt))
    - Keep the code modular and maintainable.
 
 4. **Write Tests**:
@@ -40,6 +40,13 @@ Guide the process of coding new functionalities or updating existing ones, ensur
 6. **Review and Refine**:
    - Self-review the code for any improvements.
    - Refactor if necessary for better clarity or performance.
+   - Consider using the [Code Review and Refactoring Prompt](#2-code-review-and-refactoring-prompt) for a more thorough review.
 
 7. **Proceed to Commit**:
    - Use the [Commit Message Generation Prompt](#3-commit-message-generation-prompt) to craft your commit message.
+   - Follow the [Git Workflow Prompt](#7-git-workflow-prompt) for guidance on branching and merging your changes.
+
+## Related Prompts
+- [Code Review and Refactoring Prompt](#2-code-review-and-refactoring-prompt)
+- [Error Handling and Troubleshooting Prompt](#6-error-handling-and-troubleshooting-prompt)
+- [Git Workflow Prompt](#7-git-workflow-prompt)
